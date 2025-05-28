@@ -10,7 +10,7 @@ The **EcryptFS Folder Encryption Manager**
 - Simple and interactive Bash-based script
 - Allows users to manage encrypted folders using `ecryptfs`. 
 - Create, mount, decrypt, and manage encrypted folders on your Linux system. 
-- Iddeal for protecting sensitive data by encrypting folders.
+- Ideal for protecting sensitive data by encrypting folders.
 
 ## Features
 
